@@ -10,7 +10,7 @@ Repository Structure
         ├── images          | Images used
         ├── Main Notebook.ipynb | Walkthough the EDA and Vanilla Models       
    	    ├── README.md | This document!
-   	    └──Main Notebook.ipynb | Walkthough the EDA and Vanilla Models       
+   	    └── Main Notebook.ipynb | Walkthough the EDA and Vanilla Models       
 
 ### Business Problem
 
