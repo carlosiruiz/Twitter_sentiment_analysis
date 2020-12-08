@@ -49,12 +49,21 @@ For preprocessing the data, we create different columns for each stage of the da
 
 We tested a few classification models, such as Logistic Regression using F1 Micro Score, KNN, Random Forest, and Grid Search running Random Forest. Since the *company* feature had the name of products (such as iPhone, iPad, Android, Mac etc.), we created a feature with the main company name (Apple o Google). We also made features using Lemmatization and Stemming.
 
+![](https://github.com/carlosiruiz/mod_4_nlp/blob/main/images/word_cloud.png?raw=true)
+
 We tested these models using different stages of data cleaning and feature engineering and analyzed how each model performed with each of the features that were engineered.
 
 ### Conclusion
 
-Our final best performing used Logistic Regression 
+Our final best performing used Logistic Regression with TDIDF vectorizer with a 0.8284 accuracy.
 
+Using sentiment analysis can be used as a baseline prediction model.
+Using sentiment analysis creates a better understanding in trends company's product response.
+
+We recommend companies to use NLP to be able to collect and interpret what consumers are writing on social media. It's a valuable data and should take in consideration when the company takes decisions.
+
+
+![](https://github.com/carlosiruiz/mod_4_nlp/blob/main/images/model_heatmap.png?raw=true)
 
 
 
