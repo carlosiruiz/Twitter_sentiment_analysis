@@ -6,16 +6,12 @@
 
 Repository Structure
 
-       `├── Index.ipynb     | A walkthrough our project
-        ├── README.md       |
+       `├── eda     | All the images used in the README and Presentation
         ├── images          | Images used
-		├── EDA          | Images used in this README
-        ├── notebooks       
-        │   ├── EDA         | Exploratory Data Analysis
-        │   └── modelling   | Model Prototyping 
-        └── src
-            ├── data        | Image Data
-            └── modules     | Custom eda, preprocessing and graphing functions`
+		├── .DS_Store         | Images used in this README
+        ├── Main Notebook.ipynb | Walkthough the EDA and Vanilla Models       
+		├── README.md | This document!
+		└──Main Notebook.ipynb | Walkthough the EDA and Vanilla Models       
 
 ### Business Problem
 
