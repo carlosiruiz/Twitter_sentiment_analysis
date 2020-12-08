@@ -8,10 +8,9 @@ Repository Structure
 
        `├── eda     | All the images used in the README and Presentation
         ├── images          | Images used
-		├── .DS_Store         | Images used in this README
         ├── Main Notebook.ipynb | Walkthough the EDA and Vanilla Models       
-		├── README.md | This document!
-		└──Main Notebook.ipynb | Walkthough the EDA and Vanilla Models       
+	├── README.md | This document!
+	└──Main Notebook.ipynb | Walkthough the EDA and Vanilla Models       
 
 ### Business Problem
 
